@@ -10,9 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBAction func buttonPressed(sender: AnyObject) {
+    println("You clicked the button")
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        println("Hello world")
     }
 
     override func didReceiveMemoryWarning() {

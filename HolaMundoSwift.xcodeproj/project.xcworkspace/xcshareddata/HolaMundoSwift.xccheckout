@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B8BE9B52-A167-4422-8C0A-27A25FA83A09</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HolaMundoSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7CE850ECA246FF7DB310BD8AB3FF45B627E54249</key>
+		<string>https://github.com/miwesfx/HolaMundoSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HolaMundoSwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7CE850ECA246FF7DB310BD8AB3FF45B627E54249</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/miwesfx/HolaMundoSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7CE850ECA246FF7DB310BD8AB3FF45B627E54249</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7CE850ECA246FF7DB310BD8AB3FF45B627E54249</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HolaMundoSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
