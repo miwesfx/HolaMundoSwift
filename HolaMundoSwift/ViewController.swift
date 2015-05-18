@@ -10,8 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var ourLabel: UILabel!
+    
     @IBAction func buttonPressed(sender: AnyObject) {
-    println("You clicked the button")
+    ourLabel.text="You clicked the button"
     }
     
     override func viewDidLoad() {
